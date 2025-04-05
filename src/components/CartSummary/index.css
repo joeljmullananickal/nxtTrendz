@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.A {
+  width: 40%;
+  align-self: flex-end;
+  padding: 10px;
+  color: #616e7c;
+}
+.B {
+  color: #171f46;
+}
+.butt {
+  background-color: #0b69ff;
+  color: white;
+  padding: 15px;
+}
